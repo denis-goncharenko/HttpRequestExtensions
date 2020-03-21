@@ -1,6 +1,6 @@
 # HttpRequestExtensions
 
-The HttpRequestExtensions is a [Nuget Package](https://www.nuget.org/packages/UrlCombine) for getting absolute or relative url.
+The HttpRequestExtensions is a [Nuget Package](https://www.nuget.org/packages/HttpRequestExtensions) for getting absolute or relative url.
 This library return absolute and relative url from HttpRequest.
 
 ## Usages
